@@ -55,4 +55,4 @@ Só!...mas se quiser ir além, tente preparar o projeto para ser executado de ma
 ps: Se fizer deploy em algum servidor ou utilizar alguma ferramenta que facilite a execução (ex: docker), será um diferencial.
 
 
-Boa sorte! (^_^)
+Boa sorte (^_^)
